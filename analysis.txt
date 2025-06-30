@@ -6,3 +6,6 @@ Location : Medan
 
 Email : tm.haiqal.88@gmail.com
 Edited from Git Web
+
+company : wiraswasta
+country : Indonesia 
